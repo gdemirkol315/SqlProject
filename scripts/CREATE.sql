@@ -41,7 +41,7 @@ CREATE TABLE address(
 CREATE TABLE currency(
 	currency_id int PRIMARY KEY,
 	iso_code varchar(3),
-	currency_name varchar(20)
+	currency_name varchar(50)
 	);
 CREATE TABLE guest(
 	guest_id int PRIMARY KEY,
@@ -157,7 +157,8 @@ CREATE TABLE payment(
 	currency_id int,
     FOREIGN KEY (booking_id) REFERENCES booking(booking_id),
     FOREIGN KEY (credit_card_vendor_id) REFERENCES credit_card_vendor(credit_card_vendor_id),
-    FOREIGN KEY (payment_status_id) REFERENCES payment_status(payment_status_id)
+    FOREIGN KEY (payment_status_id) REFERENCES payment_status(payment_status_id),
+    FOREIGN KEY (currency_id) REFERENCES currency(currency_id)
 	);
 
 CREATE TABLE accommodation_pic(
