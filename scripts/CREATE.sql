@@ -76,12 +76,6 @@ CREATE TABLE social_media_profile_host(
     FOREIGN KEY (social_media_type_id) REFERENCES social_media_type(social_media_type_id)
 	);
 
-CREATE TABLE profile_pic_guest(
-	picture_id int PRIMARY KEY,
-	file_location varchar(1000),
-	title varchar(100)
-	);
-
 CREATE TABLE social_media_profile_guest(
 	social_media_profile_id int PRIMARY KEY,
 	guest_id int,
@@ -91,6 +85,21 @@ CREATE TABLE social_media_profile_guest(
     FOREIGN KEY (social_media_type_id) REFERENCES social_media_type(social_media_type_id)
 	);
 
+CREATE TABLE profile_pic_guest(
+	picture_id int PRIMARY KEY,
+	guest_id int,
+	file_location varchar(1000),
+	title varchar(100),
+	FOREIGN KEY (guest_id) REFERENCES guest(guest_id)
+	);
+
+CREATE TABLE profile_pic_host(
+	picture_id int PRIMARY KEY,
+	host_id int,
+	file_location varchar(1000),
+	title varchar(100),
+    FOREIGN KEY (host_id) REFERENCES host(host_id)
+	);
 
 CREATE TABLE accomodation(
 	accomodation_id  int PRIMARY KEY,
@@ -103,17 +112,6 @@ CREATE TABLE accomodation(
     FOREIGN KEY (accomodation_type_id) REFERENCES  accomodation_type(accomodation_type_id),
     FOREIGN KEY (host_id) REFERENCES host(host_id)
     );
-CREATE TABLE profile_pic_host(
-	picture_id int PRIMARY KEY,
-	host_id int,
-	file_location varchar(1000),
-	title varchar(100),
-    FOREIGN KEY (host_id) REFERENCES host(host_id)
-	);
-
-
-
-
 
 CREATE TABLE booking_status(
 	booking_status_id int PRIMARY KEY,
