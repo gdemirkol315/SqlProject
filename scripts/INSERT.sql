@@ -370,5 +370,6 @@ insert into social_media_profile_guest(social_media_profile_id, host_id, social_
 insert into social_media_profile_guest(social_media_profile_id, host_id, social_media_type_id, account_url) values(19, 19, 19,'https://www.facebook.com/sharer.php?u=test18');
 insert into social_media_profile_guest(social_media_profile_id, host_id, social_media_type_id, account_url) values(20, 20, 20,'https://www.facebook.com/sharer.php?u=test19');
 
+insert into profile_pic_guest(picture_id, guest_id, file_location, title) values (1,1,'/images/profiles/testprofile.jpg','profile_pic_test_user');
 
 commit;
