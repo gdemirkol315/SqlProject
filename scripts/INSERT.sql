@@ -61,11 +61,25 @@ INSERT INTO social_media_type(social_media_type_id,social_media_platform_name) V
 INSERT INTO social_media_type(social_media_type_id,social_media_platform_name) VALUES (20,'WeChat');
 
 INSERT INTO credit_card_vendor(credit_card_vendor_id, credit_card_vendor) VALUES (1,'visa');
-INSERT INTO credit_card_vendor(credit_card_vendor_id, credit_card_vendor) VALUES (2,'master');
+INSERT INTO credit_card_vendor(credit_card_vendor_id, credit_card_vendor) VALUES (2,'mastercard');
 INSERT INTO credit_card_vendor(credit_card_vendor_id, credit_card_vendor) VALUES (3,'maestro');
 INSERT INTO credit_card_vendor(credit_card_vendor_id, credit_card_vendor) VALUES (4,'paypal');
 INSERT INTO credit_card_vendor(credit_card_vendor_id, credit_card_vendor) VALUES (5,'paydirect');
 INSERT INTO credit_card_vendor(credit_card_vendor_id, credit_card_vendor) VALUES (6,'americanexpress');
+INSERT INTO credit_card_vendor(credit_card_vendor_id, credit_card_vendor) VALUES (7,'solo');
+INSERT INTO credit_card_vendor(credit_card_vendor_id, credit_card_vendor) VALUES (8,'jcb');
+INSERT INTO credit_card_vendor(credit_card_vendor_id, credit_card_vendor) VALUES (9,'diners-club-carte-blanche');
+INSERT INTO credit_card_vendor(credit_card_vendor_id, credit_card_vendor) VALUES (10,'diners-club-us-ca');
+INSERT INTO credit_card_vendor(credit_card_vendor_id, credit_card_vendor) VALUES (11,'diners-club-international');
+INSERT INTO credit_card_vendor(credit_card_vendor_id, credit_card_vendor) VALUES (12,'instapayment');
+INSERT INTO credit_card_vendor(credit_card_vendor_id, credit_card_vendor) VALUES (13,'switch');
+INSERT INTO credit_card_vendor(credit_card_vendor_id, credit_card_vendor) VALUES (14,'sofort');
+INSERT INTO credit_card_vendor(credit_card_vendor_id, credit_card_vendor) VALUES (15,'direktüberweisen');
+INSERT INTO credit_card_vendor(credit_card_vendor_id, credit_card_vendor) VALUES (16,'airbnb card');
+INSERT INTO credit_card_vendor(credit_card_vendor_id, credit_card_vendor) VALUES (17,'wenmo');
+INSERT INTO credit_card_vendor(credit_card_vendor_id, credit_card_vendor) VALUES (18,'PRESENT-CODE');
+INSERT INTO credit_card_vendor(credit_card_vendor_id, credit_card_vendor) VALUES (19,'china-unionpay');
+INSERT INTO credit_card_vendor(credit_card_vendor_id, credit_card_vendor) VALUES (20,'diners-club-enroute');
 
 INSERT INTO payment_status(payment_status_id, payment_status) VALUES (1, 'PENDING');
 INSERT INTO payment_status(payment_status_id, payment_status) VALUES (2, 'REJECTED');
