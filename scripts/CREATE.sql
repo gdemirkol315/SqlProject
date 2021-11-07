@@ -25,9 +25,9 @@ CREATE TABLE payment_status(
 	);
     
 
-CREATE TABLE accomodation_type(
-	accomodation_type_id int PRIMARY KEY,
-	accomodation_type varchar(30)
+CREATE TABLE accommodation_type(
+	accommodation_type_id int PRIMARY KEY,
+	accommodation_type varchar(30)
 	);
 	
 CREATE TABLE address(
@@ -101,15 +101,15 @@ CREATE TABLE profile_pic_host(
     FOREIGN KEY (host_id) REFERENCES host(host_id)
 	);
 
-CREATE TABLE accomodation(
-	accomodation_id  int PRIMARY KEY,
-    accomodation_type_id int,
+CREATE TABLE accommodation(
+	accommodation_id  int PRIMARY KEY,
+    accommodation_type_id int,
     address_id int,
     capacity int,
     host_id int,
     description varchar(5000),
     FOREIGN KEY (address_id) REFERENCES address(address_id),
-    FOREIGN KEY (accomodation_type_id) REFERENCES  accomodation_type(accomodation_type_id),
+    FOREIGN KEY (accommodation_type_id) REFERENCES  accommodation_type(accommodation_type_id),
     FOREIGN KEY (host_id) REFERENCES host(host_id)
     );
 
@@ -121,12 +121,12 @@ CREATE TABLE booking_status(
 CREATE TABLE booking(
 	booking_id int PRIMARY KEY,
 	guest_id int,
-	accomodation_id int,
+	accommodation_id int,
 	booking_from date,
 	booking_until date,
 	booking_status_id int,
     FOREIGN KEY (guest_id) REFERENCES guest(guest_id),
-    FOREIGN KEY (accomodation_id) REFERENCES accomodation(accomodation_id),
+    FOREIGN KEY (accommodation_id) REFERENCES accommodation(accommodation_id),
     FOREIGN KEY (booking_status_id) REFERENCES booking_status(booking_status_id)
 	);
 
@@ -161,20 +161,22 @@ CREATE TABLE payment(
 
 CREATE TABLE accommodation_pic(
 	picture_id int PRIMARY KEY,
-	accomodation_id int,
+	accommodation_id int,
 	file_location varchar(1000),
 	title varchar(100),
-    FOREIGN KEY (accomodation_id) REFERENCES accomodation(accomodation_id)
+    FOREIGN KEY (accommodation_id) REFERENCES accommodation(accommodation_id)
 	);
 
-CREATE TABLE accomodation_calender(
-	accomodation_calender_id int PRIMARY KEY,
+CREATE TABLE accommodation_calendar(
+	accommodation_calendar_id int PRIMARY KEY,
+	accommodation_id int,
 	valid_from date,
 	valid_to date,
 	is_available bool,
 	price_per_night numeric (12,4),
 	currency_id int,
-    FOREIGN KEY (currency_id) REFERENCES currency(currency_id)
+    FOREIGN KEY (currency_id) REFERENCES currency(currency_id),
+    FOREIGN KEY (accommodation_id) REFERENCES accommodation(accommodation_id)
 	);
 
 COMMIT;
