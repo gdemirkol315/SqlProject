@@ -90,7 +90,7 @@ CREATE TABLE profile_pic_guest(
 	guest_id int,
 	file_location varchar(1000),
 	title varchar(100),
-	FOREIGN KEY (guest_id) REFERENCES guest(guest_id)
+	FOREIGN KEY (guest_id) REFERENCES guest(guest_id) ON DELETE CASCADE
 	);
 
 CREATE TABLE profile_pic_host(
@@ -98,7 +98,7 @@ CREATE TABLE profile_pic_host(
 	host_id int,
 	file_location varchar(1000),
 	title varchar(100),
-    FOREIGN KEY (host_id) REFERENCES host(host_id)
+    FOREIGN KEY (host_id) REFERENCES host(host_id) ON DELETE CASCADE
 	);
 
 CREATE TABLE accommodation(
@@ -110,7 +110,7 @@ CREATE TABLE accommodation(
     description varchar(5000),
     FOREIGN KEY (address_id) REFERENCES address(address_id),
     FOREIGN KEY (accommodation_type_id) REFERENCES  accommodation_type(accommodation_type_id),
-    FOREIGN KEY (host_id) REFERENCES host(host_id)
+    FOREIGN KEY (host_id) REFERENCES host(host_id) ON DELETE CASCADE
     );
 
 CREATE TABLE booking_status(
@@ -164,7 +164,7 @@ CREATE TABLE accommodation_pic(
 	accommodation_id int,
 	file_location varchar(1000),
 	title varchar(100),
-    FOREIGN KEY (accommodation_id) REFERENCES accommodation(accommodation_id)
+    FOREIGN KEY (accommodation_id) REFERENCES accommodation(accommodation_id) ON DELETE CASCADE
 	);
 
 CREATE TABLE accommodation_calendar(
@@ -176,7 +176,7 @@ CREATE TABLE accommodation_calendar(
 	price_per_night numeric (12,4),
 	currency_id int,
     FOREIGN KEY (currency_id) REFERENCES currency(currency_id),
-    FOREIGN KEY (accommodation_id) REFERENCES accommodation(accommodation_id)
+    FOREIGN KEY (accommodation_id) REFERENCES accommodation(accommodation_id) ON DELETE CASCADE
 	);
 
 COMMIT;
