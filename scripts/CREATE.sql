@@ -190,7 +190,9 @@ FOR EACH ROW
 			FROM booking b
             WHERE b.accommodation_id = new.accommodation_id and
 				((b.booking_from BETWEEN new.booking_from and new.booking_until)
-				or (b.booking_until BETWEEN new.booking_from and new.booking_until));
+				or (b.booking_until BETWEEN new.booking_from and new.booking_until)
+                or ((new.booking_from BETWEEN b.booking_from and b.booking_until)
+                    and (new.booking_until BETWEEN b.booking_from and b.booking_until)));
         IF count_existing_booking_range>0 THEN
 			SIGNAL SQLSTATE '45001' SET MESSAGE_TEXT = 'ERROR:There is already a booking during this dates for this accommodation! Entry not allowed!';
         END IF;
@@ -205,7 +207,9 @@ FOR EACH ROW
 			FROM accommodation_calendar ac
             WHERE ac.accommodation_id = new.accommodation_id and
 				((ac.valid_from BETWEEN new.valid_from and new.valid_to)
-				or (ac.valid_to BETWEEN new.valid_from and new.valid_to));
+				or (ac.valid_to BETWEEN new.valid_from and new.valid_to)
+                or ((new.valid_from BETWEEN ac.valid_from and ac.valid_to)
+                    and (new.valid_to BETWEEN ac.valid_from and ac.valid_to)));
         IF count_existing_ac_range>0 THEN
 			SIGNAL SQLSTATE '45000' SET MESSAGE_TEXT = 'ERROR:There is already accommodation calendar existing for this period!';
         END IF;
