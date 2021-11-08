@@ -192,7 +192,7 @@ FOR EACH ROW
 				((b.booking_from BETWEEN new.booking_from and new.booking_until)
 				or (b.booking_until BETWEEN new.booking_from and new.booking_until));
         IF count_existing_booking_range>0 THEN
-			SIGNAL SQLSTATE '45000' SET MESSAGE_TEXT = 'ERROR:There is already a booking during this dates for this accommodation! Entry not allowed!';
+			SIGNAL SQLSTATE '45001' SET MESSAGE_TEXT = 'ERROR:There is already a booking during this dates for this accommodation! Entry not allowed!';
         END IF;
 	END$$
 
