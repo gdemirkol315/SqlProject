@@ -769,7 +769,6 @@ INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_u
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (111,8,41,'2022-08-15','2022-09-17',4);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (112,2,36,'2022-12-18','2022-12-24',4);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (114,9,22,'2022-06-15','2022-07-11',1);
-INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (115,7,60,'2022-05-07','2022-05-20',2);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (116,1,3,'2022-07-29','2022-08-11',5);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (117,6,36,'2022-01-19','2022-02-22',3);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (118,6,31,'2021-10-04','2021-11-23',6);
@@ -777,11 +776,8 @@ INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_u
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (120,17,13,'2022-09-25','2022-11-07',5);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (121,4,33,'2021-09-04','2021-10-19',1);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (122,14,31,'2022-05-15','2022-05-23',5);
-INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (123,3,2,'2021-12-04','2021-12-08',5);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (124,8,38,'2022-10-06','2022-11-03',2);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (125,7,35,'2022-08-30','2022-10-01',6);
-INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (126,5,36,'2021-03-06','2021-03-13',2);
-INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (127,20,4,'2021-06-25','2021-07-31',6);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (128,4,25,'2022-06-02','2022-06-06',2);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (129,19,20,'2022-03-18','2022-03-28',6);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (130,16,12,'2021-04-25','2021-05-14',1);
@@ -791,7 +787,6 @@ INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_u
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (136,3,38,'2022-12-12','2022-12-26',4);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (137,2,32,'2021-06-12','2021-07-10',2);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (138,5,9,'2022-12-08','2022-12-10',6);
-INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (139,15,1,'2022-10-29','2022-11-19',2);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (140,4,15,'2022-04-13','2022-04-16',3);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (141,17,33,'2021-02-20','2021-03-07',5);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (142,10,32,'2022-09-21','2022-11-08',3);
@@ -806,7 +801,6 @@ INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_u
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (151,14,1,'2022-02-04','2022-03-10',2);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (152,4,3,'2021-11-12','2021-12-07',3);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (153,9,3,'2021-09-15','2021-10-23',4);
-INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (154,9,3,'2021-11-24','2021-12-01',3);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (155,3,13,'2021-09-11','2021-10-26',2);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (156,9,59,'2021-01-05','2021-01-11',4);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (157,12,15,'2021-07-25','2021-08-17',2);
@@ -855,7 +849,6 @@ INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_u
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (214,14,31,'2022-01-02','2022-01-29',6);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (215,16,5,'2022-09-18','2022-10-17',3);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (216,5,9,'2021-12-06','2021-12-11',5);
-INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (217,12,13,'2022-04-16','2022-05-19',3);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (218,8,30,'2022-10-21','2022-11-26',2);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (220,5,45,'2021-10-17','2021-10-28',6);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (221,17,22,'2022-02-12','2022-03-08',4);
@@ -878,7 +871,6 @@ INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_u
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (246,6,26,'2021-09-09','2021-09-18',4);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (247,7,36,'2022-04-29','2022-05-04',1);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (248,19,57,'2021-09-28','2021-11-09',1);
-INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (249,4,47,'2022-03-08','2022-03-27',5);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (251,15,14,'2021-03-03','2021-04-16',5);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (252,11,22,'2021-05-09','2021-06-22',1);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (253,18,6,'2021-05-13','2021-06-06',2);
@@ -900,7 +892,6 @@ INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_u
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (277,3,4,'2021-10-11','2021-11-23',1);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (279,7,27,'2022-07-19','2022-07-21',6);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (280,16,24,'2022-03-02','2022-04-06',2);
-INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (281,19,46,'2021-06-29','2021-07-22',1);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (282,11,13,'2021-11-26','2022-01-15',4);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (283,17,46,'2022-09-03','2022-09-04',2);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (284,2,56,'2021-03-14','2021-04-27',6);
@@ -928,7 +919,6 @@ INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_u
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (311,12,14,'2021-07-02','2021-07-27',6);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (312,13,42,'2022-06-28','2022-07-21',4);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (314,10,41,'2021-01-07','2021-01-21',4);
-INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (315,20,53,'2021-03-18','2021-03-27',2);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (316,4,7,'2022-01-01','2022-01-19',1);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (317,9,39,'2022-04-10','2022-04-20',5);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (318,13,49,'2022-01-29','2022-03-13',5);
@@ -942,13 +932,10 @@ INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_u
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (327,8,3,'2022-02-10','2022-03-07',1);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (329,2,6,'2021-09-11','2021-09-26',3);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (330,17,30,'2021-01-21','2021-01-30',6);
-INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (331,20,43,'2021-05-05','2021-05-06',6);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (332,4,40,'2022-05-10','2022-05-23',4);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (333,17,53,'2021-06-27','2021-08-11',2);
-INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (334,19,25,'2022-09-06','2022-09-07',4);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (338,16,21,'2021-05-12','2021-06-06',5);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (339,15,46,'2022-07-04','2022-07-20',3);
-INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (340,12,43,'2021-06-18','2021-06-19',5);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (341,14,43,'2022-10-22','2022-12-03',3);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (342,14,50,'2021-10-13','2021-11-19',4);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (343,8,42,'2022-12-10','2022-12-13',4);
@@ -957,7 +944,6 @@ INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_u
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (349,20,37,'2022-10-10','2022-10-26',1);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (351,2,41,'2022-02-01','2022-02-20',5);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (354,9,48,'2021-03-03','2021-03-19',6);
-INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (355,19,4,'2022-09-14','2022-09-16',1);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (356,20,39,'2021-10-13','2021-11-18',6);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (357,19,25,'2022-06-09','2022-06-12',4);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (359,10,58,'2021-06-12','2021-07-06',6);
@@ -1003,7 +989,6 @@ INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_u
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (420,18,49,'2022-11-07','2022-12-04',4);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (422,3,7,'2022-01-21','2022-01-23',4);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (423,12,28,'2022-04-18','2022-04-19',6);
-INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (425,10,13,'2021-10-01','2021-10-19',1);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (426,1,21,'2021-11-22','2021-12-09',6);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (428,19,58,'2021-02-11','2021-03-10',6);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (429,14,3,'2021-01-19','2021-02-08',2);
@@ -1019,7 +1004,6 @@ INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_u
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (443,15,9,'2021-11-09','2021-11-19',2);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (446,19,25,'2021-08-24','2021-09-11',3);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (448,19,15,'2021-02-11','2021-02-21',6);
-INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (449,14,36,'2021-06-12','2021-07-02',3);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (450,17,6,'2022-07-29','2022-09-10',5);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (453,2,34,'2022-04-25','2022-05-03',2);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (454,8,43,'2022-08-31','2022-10-01',5);
@@ -1031,8 +1015,6 @@ INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_u
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (462,20,22,'2022-09-17','2022-10-07',6);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (465,9,12,'2021-10-18','2021-12-03',2);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (466,11,14,'2021-10-20','2021-10-21',2);
-INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (469,6,27,'2021-03-12','2021-03-15',6);
-INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (470,19,51,'2021-11-29','2021-12-05',4);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (473,3,2,'2022-09-26','2022-10-09',6);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (474,19,38,'2021-04-27','2021-05-11',4);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (477,7,33,'2021-06-03','2021-07-05',6);
@@ -1044,10 +1026,8 @@ INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_u
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (488,14,8,'2021-02-17','2021-02-20',2);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (492,15,57,'2022-10-21','2022-11-06',4);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (495,2,3,'2022-04-20','2022-05-11',1);
-INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (496,9,51,'2021-08-07','2021-08-13',1);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (497,3,59,'2022-04-21','2022-06-07',3);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (498,15,46,'2021-10-20','2021-10-25',3);
-INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (499,18,21,'2021-01-26','2021-02-16',3);
 INSERT INTO booking (booking_id,guest_id,accommodation_id,booking_from,booking_until,booking_status_id) VALUES (500,18,9,'2022-10-20','2022-10-25',5);
 
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (2,2,'guest comment test 2','host comment test 2',4,1);
@@ -1161,7 +1141,6 @@ INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (111,111,'guest comment test 111','host comment test 111',3,3);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (112,112,'guest comment test 112','host comment test 112',2,5);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (114,114,'guest comment test 114','host comment test 114',5,4);
-INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (115,115,'guest comment test 115','host comment test 115',2,2);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (116,116,'guest comment test 116','host comment test 116',3,3);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (117,117,'guest comment test 117','host comment test 117',3,1);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (118,118,'guest comment test 118','host comment test 118',5,2);
@@ -1169,11 +1148,8 @@ INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (120,120,'guest comment test 120','host comment test 120',4,5);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (121,121,'guest comment test 121','host comment test 121',5,2);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (122,122,'guest comment test 122','host comment test 122',2,5);
-INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (123,123,'guest comment test 123','host comment test 123',4,5);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (124,124,'guest comment test 124','host comment test 124',3,1);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (125,125,'guest comment test 125','host comment test 125',5,2);
-INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (126,126,'guest comment test 126','host comment test 126',3,4);
-INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (127,127,'guest comment test 127','host comment test 127',1,3);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (128,128,'guest comment test 128','host comment test 128',2,5);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (129,129,'guest comment test 129','host comment test 129',2,1);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (130,130,'guest comment test 130','host comment test 130',5,2);
@@ -1183,7 +1159,6 @@ INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (136,136,'guest comment test 136','host comment test 136',3,2);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (137,137,'guest comment test 137','host comment test 137',2,1);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (138,138,'guest comment test 138','host comment test 138',4,2);
-INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (139,139,'guest comment test 139','host comment test 139',4,5);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (140,140,'guest comment test 140','host comment test 140',2,2);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (141,141,'guest comment test 141','host comment test 141',4,1);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (142,142,'guest comment test 142','host comment test 142',3,1);
@@ -1198,7 +1173,6 @@ INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (151,151,'guest comment test 151','host comment test 151',1,2);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (152,152,'guest comment test 152','host comment test 152',2,3);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (153,153,'guest comment test 153','host comment test 153',3,4);
-INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (154,154,'guest comment test 154','host comment test 154',5,4);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (155,155,'guest comment test 155','host comment test 155',4,2);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (156,156,'guest comment test 156','host comment test 156',3,4);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (157,157,'guest comment test 157','host comment test 157',1,5);
@@ -1247,7 +1221,6 @@ INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (214,214,'guest comment test 214','host comment test 214',3,5);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (215,215,'guest comment test 215','host comment test 215',2,4);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (216,216,'guest comment test 216','host comment test 216',2,4);
-INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (217,217,'guest comment test 217','host comment test 217',5,4);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (218,218,'guest comment test 218','host comment test 218',1,4);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (220,220,'guest comment test 220','host comment test 220',2,4);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (221,221,'guest comment test 221','host comment test 221',4,1);
@@ -1270,7 +1243,6 @@ INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (246,246,'guest comment test 246','host comment test 246',3,3);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (247,247,'guest comment test 247','host comment test 247',3,4);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (248,248,'guest comment test 248','host comment test 248',5,3);
-INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (249,249,'guest comment test 249','host comment test 249',2,5);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (251,251,'guest comment test 251','host comment test 251',4,1);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (252,252,'guest comment test 252','host comment test 252',2,4);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (253,253,'guest comment test 253','host comment test 253',2,3);
@@ -1292,7 +1264,6 @@ INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (277,277,'guest comment test 277','host comment test 277',3,3);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (279,279,'guest comment test 279','host comment test 279',2,1);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (280,280,'guest comment test 280','host comment test 280',4,5);
-INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (281,281,'guest comment test 281','host comment test 281',1,1);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (282,282,'guest comment test 282','host comment test 282',2,5);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (283,283,'guest comment test 283','host comment test 283',2,2);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (284,284,'guest comment test 284','host comment test 284',1,5);
@@ -1320,7 +1291,6 @@ INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (311,311,'guest comment test 311','host comment test 311',4,4);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (312,312,'guest comment test 312','host comment test 312',4,1);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (314,314,'guest comment test 314','host comment test 314',5,1);
-INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (315,315,'guest comment test 315','host comment test 315',4,1);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (316,316,'guest comment test 316','host comment test 316',5,5);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (317,317,'guest comment test 317','host comment test 317',4,3);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (318,318,'guest comment test 318','host comment test 318',4,2);
@@ -1334,13 +1304,10 @@ INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (327,327,'guest comment test 327','host comment test 327',5,4);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (329,329,'guest comment test 329','host comment test 329',1,2);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (330,330,'guest comment test 330','host comment test 330',2,5);
-INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (331,331,'guest comment test 331','host comment test 331',4,2);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (332,332,'guest comment test 332','host comment test 332',3,5);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (333,333,'guest comment test 333','host comment test 333',1,2);
-INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (334,334,'guest comment test 334','host comment test 334',4,3);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (338,338,'guest comment test 338','host comment test 338',5,5);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (339,339,'guest comment test 339','host comment test 339',4,4);
-INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (340,340,'guest comment test 340','host comment test 340',2,4);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (341,341,'guest comment test 341','host comment test 341',1,2);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (342,342,'guest comment test 342','host comment test 342',2,5);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (343,343,'guest comment test 343','host comment test 343',1,5);
@@ -1349,7 +1316,6 @@ INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (349,349,'guest comment test 349','host comment test 349',1,5);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (351,351,'guest comment test 351','host comment test 351',1,3);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (354,354,'guest comment test 354','host comment test 354',1,1);
-INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (355,355,'guest comment test 355','host comment test 355',3,1);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (356,356,'guest comment test 356','host comment test 356',4,5);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (357,357,'guest comment test 357','host comment test 357',5,3);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (359,359,'guest comment test 359','host comment test 359',4,1);
@@ -1395,7 +1361,6 @@ INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (420,420,'guest comment test 420','host comment test 420',4,2);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (422,422,'guest comment test 422','host comment test 422',2,4);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (423,423,'guest comment test 423','host comment test 423',4,1);
-INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (425,425,'guest comment test 425','host comment test 425',4,2);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (426,426,'guest comment test 426','host comment test 426',4,1);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (428,428,'guest comment test 428','host comment test 428',4,4);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (429,429,'guest comment test 429','host comment test 429',2,5);
@@ -1411,7 +1376,6 @@ INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (443,443,'guest comment test 443','host comment test 443',4,2);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (446,446,'guest comment test 446','host comment test 446',3,3);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (448,448,'guest comment test 448','host comment test 448',1,4);
-INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (449,449,'guest comment test 449','host comment test 449',3,5);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (450,450,'guest comment test 450','host comment test 450',2,4);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (453,453,'guest comment test 453','host comment test 453',5,2);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (454,454,'guest comment test 454','host comment test 454',4,2);
@@ -1423,8 +1387,6 @@ INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (462,462,'guest comment test 462','host comment test 462',2,2);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (465,465,'guest comment test 465','host comment test 465',4,5);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (466,466,'guest comment test 466','host comment test 466',3,2);
-INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (469,469,'guest comment test 469','host comment test 469',2,1);
-INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (470,470,'guest comment test 470','host comment test 470',4,1);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (473,473,'guest comment test 473','host comment test 473',1,1);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (474,474,'guest comment test 474','host comment test 474',5,2);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (477,477,'guest comment test 477','host comment test 477',1,3);
@@ -1436,12 +1398,9 @@ INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (488,488,'guest comment test 488','host comment test 488',4,1);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (492,492,'guest comment test 492','host comment test 492',4,4);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (495,495,'guest comment test 495','host comment test 495',5,4);
-INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (496,496,'guest comment test 496','host comment test 496',4,4);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (497,497,'guest comment test 497','host comment test 497',1,3);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (498,498,'guest comment test 498','host comment test 498',3,4);
-INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (499,499,'guest comment test 499','host comment test 499',3,4);
 INSERT INTO review (review_id,booking_id,guest_comment,host_comment,guest_rating,host_rating) VALUES (500,500,'guest comment test 500','host comment test 500',2,1);
-
 
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (1,1,1958.9500,'2022-12-27 00:00:00','6706274403708350000','2912','2022-10-31',7,293.8425,1,64);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (2,2,1962.5400,'2021-08-11 00:00:00','3554295844681130','1862','2023-09-30',10,372.8826,3,160);
@@ -1555,7 +1514,6 @@ INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (111,111,3318.8100,'2021-09-28 00:00:00','560222781369839000','2762','2023-10-31',11,497.8215,2,140);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (112,112,2116.1400,'2022-11-04 00:00:00','3560233223577610','8302','2023-07-31',10,232.7754,3,102);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (114,114,9635.3400,'2021-05-03 00:00:00','201938507987814','7642','2024-01-31',12,1252.5942,1,119);
-INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (115,115,5040.8800,'2021-12-01 00:00:00','3570526363049420','2650','2022-08-31',5,1008.1760,3,59);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (116,116,4251.1300,'2022-05-12 00:00:00','3587441791469880','2394','2022-11-30',12,467.6243,3,99);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (117,117,15359.8400,'2021-06-23 00:00:00','5255800413189980','2825','2022-11-30',6,2303.9760,2,157);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (118,118,14889.0000,'2021-06-03 00:00:00','3581688232826690','4434','2024-10-31',1,1637.7900,2,95);
@@ -1563,11 +1521,8 @@ INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (120,120,5796.4000,'2022-07-01 00:00:00','3587785431546200','3813','2022-10-31',11,927.4240,2,152);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (121,121,14089.9500,'2021-07-04 00:00:00','5487905398997660','7715','2023-07-31',16,1972.5930,2,148);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (122,122,1449.3600,'2022-05-20 00:00:00','3561004458486930','4430','2024-02-29',6,188.4168,3,113);
-INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (123,123,1706.1200,'2022-09-21 00:00:00','3564284970764120','1025','2022-03-31',9,204.7344,2,75);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (124,124,3614.8000,'2022-11-28 00:00:00','4911456419093070','7584','2024-12-31',19,433.7760,2,132);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (125,125,9790.0800,'2022-01-10 00:00:00','337941453071820','4016','2022-09-30',7,1174.8096,3,79);
-INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (126,126,1136.8700,'2022-12-31 00:00:00','6304079158214060','3415','2022-12-31',4,181.8992,2,93);
-INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (127,127,12751.2000,'2022-12-04 00:00:00','6771853875527160','1025','2023-09-30',8,1402.6320,1,108);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (128,128,1215.1600,'2022-09-21 00:00:00','5207395410542300','4124','2023-11-30',10,243.0320,2,89);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (129,129,4363.6000,'2021-06-14 00:00:00','3560472936438850','5364','2021-05-31',17,654.5400,1,80);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (130,130,5517.6000,'2022-03-18 00:00:00','3577723044732970','7164','2024-04-30',5,772.4640,1,131);
@@ -1577,7 +1532,6 @@ INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (136,136,1583.6800,'2021-07-23 00:00:00','633365246088254000','8819','2023-07-31',2,237.5520,1,55);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (137,137,7406.0000,'2021-07-01 00:00:00','3542101732321010','4218','2025-05-31',13,1333.0800,1,106);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (138,138,966.3000,'2021-11-19 00:00:00','3561351528333490','0426','2022-07-31',8,135.2820,1,15);
-INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (139,139,3406.8300,'2022-08-22 00:00:00','3540390395224560','0426','2024-02-29',1,545.0928,2,20);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (140,140,905.1000,'2021-09-28 00:00:00','3551852328137460','8243','2024-07-31',12,153.8670,2,140);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (141,141,627.4500,'2021-12-27 00:00:00','3550123670291350','6643','2025-06-30',18,106.6665,2,134);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (142,142,11713.9200,'2022-05-31 00:00:00','3566993975164680','8638','2023-05-31',15,1639.9488,3,56);
@@ -1592,7 +1546,6 @@ INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (151,151,6032.6200,'2022-06-09 00:00:00','4911803503101750000','5219','2023-04-30',6,1146.1978,3,47);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (152,152,12216.5000,'2022-04-24 00:00:00','3553087278176790','4737','2024-08-31',6,1343.8150,2,119);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (153,153,17138.0000,'2021-01-25 00:00:00','3565685439119860','7736','2023-12-31',11,2913.4600,3,113);
-INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (154,154,2023.2100,'2022-12-07 00:00:00','3576450490753710','5903','2025-03-31',18,202.3210,1,98);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (155,155,3245.8500,'2021-03-09 00:00:00','374288353193625','4875','2024-09-30',11,357.0435,2,165);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (156,156,2601.4800,'2022-01-03 00:00:00','50185455607793300','2796','2022-12-31',3,416.2368,2,28);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (157,157,11304.9600,'2022-10-25 00:00:00','5282228902812360','7189','2023-12-31',11,1695.7440,1,21);
@@ -1641,7 +1594,6 @@ INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (214,214,12993.7500,'2022-04-27 00:00:00','5588160113710000','4564','2023-10-31',8,1819.1250,2,21);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (215,215,4840.1000,'2022-01-09 00:00:00','3579488708113580','0722','2023-06-30',18,968.0200,1,94);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (216,216,1653.7500,'2021-03-11 00:00:00','5421231674761480','1894','2023-09-30',1,281.1375,3,11);
-INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (217,217,5710.6500,'2021-01-02 00:00:00','3577400658564090','5081','2023-07-31',15,799.4910,3,145);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (218,218,11988.3600,'2022-01-24 00:00:00','561043123272099000','3640','2023-01-31',1,1198.8360,2,58);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (220,220,3195.1700,'2021-01-19 00:00:00','3558717799964170','9553','2023-06-30',18,447.3238,3,10);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (221,221,10911.3600,'2022-04-06 00:00:00','3528464451729860','9099','2024-10-31',11,1527.5904,3,103);
@@ -1664,7 +1616,6 @@ INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (246,246,218.1600,'2022-02-16 00:00:00','3544450745686310','3434','2024-09-30',12,39.2688,3,3);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (247,247,1869.2500,'2022-02-21 00:00:00','3541823842814070','9878','2023-02-28',6,224.3100,3,34);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (248,248,14135.5200,'2021-05-27 00:00:00','372301011663434','0679','2024-03-31',13,2261.6832,3,23);
-INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (249,249,1163.3700,'2021-03-27 00:00:00','3559079822641020','1504','2024-06-30',16,186.1392,2,109);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (251,251,21942.8000,'2022-02-14 00:00:00','6048875124089310','6582','2025-02-28',18,2633.1360,1,88);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (252,252,14258.6400,'2022-04-28 00:00:00','3574744299726990','8567','2024-10-31',11,2851.7280,1,106);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (253,253,2500.5600,'2021-07-21 00:00:00','5641823764283640','0843','2022-11-30',16,325.0728,1,26);
@@ -1686,7 +1637,6 @@ INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (277,277,2743.4000,'2021-12-11 00:00:00','3556151094286810','7562','2022-09-30',2,493.8120,2,16);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (279,279,499.2600,'2022-04-05 00:00:00','6767594788040500','6101','2022-01-31',16,49.9260,3,94);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (280,280,3062.8500,'2021-11-13 00:00:00','5048377958356700','7398','2023-08-31',7,551.3130,2,117);
-INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (281,281,3420.1000,'2022-10-15 00:00:00','3550135484009630','8032','2023-03-31',17,649.8190,1,108);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (282,282,23047.0000,'2021-02-14 00:00:00','3569322797581170','3403','2023-11-30',4,2304.7000,2,101);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (283,283,398.6300,'2021-08-26 00:00:00','56022122107372700','3587','2023-08-31',14,55.8082,2,113);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (284,284,4854.0800,'2021-04-02 00:00:00','3545299277402410','1213','2022-12-31',5,533.9488,2,120);
@@ -1714,7 +1664,6 @@ INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (311,311,1873.5000,'2022-04-25 00:00:00','3558923227351990','0520','2023-08-31',8,262.2900,1,22);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (312,312,6137.3200,'2022-08-28 00:00:00','5100147658680880','9861','2023-10-31',7,797.8516,3,163);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (314,314,4288.7600,'2021-11-18 00:00:00','3546401850433300','8714','2021-09-30',5,686.2016,2,72);
-INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (315,315,1472.2200,'2021-02-12 00:00:00','4041598320944880','4579','2023-03-31',2,161.9442,3,38);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (316,316,6459.6600,'2022-10-20 00:00:00','6385932325412770','8523','2022-03-31',3,1227.3354,2,90);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (317,317,3236.2000,'2022-12-28 00:00:00','3565566748885130','8005','2023-08-31',7,355.9820,2,17);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (318,318,1784.9300,'2021-11-15 00:00:00','560223651125124000','3908','2022-06-30',9,321.2874,2,120);
@@ -1728,13 +1677,10 @@ INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (327,327,5416.0000,'2022-08-13 00:00:00','4844581987985150','5210','2022-07-31',5,866.5600,3,101);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (329,329,3407.7000,'2022-09-21 00:00:00','6767297343363500','2805','2025-05-31',13,443.0010,1,83);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (330,330,2606.5800,'2021-08-23 00:00:00','630441074736562000','7288','2023-07-31',16,286.7238,1,58);
-INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (331,331,266.5900,'2022-02-23 00:00:00','5102998567447160','6382','2022-01-31',19,45.3203,1,42);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (332,332,5773.0400,'2021-09-03 00:00:00','344068373570292','8467','2022-05-31',6,577.3040,2,45);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (333,333,19827.9000,'2022-08-18 00:00:00','3553104720122460','4716','2024-06-30',20,2181.0690,3,15);
-INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (334,334,370.8900,'2022-03-01 00:00:00','3588495401127360','5694','2023-12-31',19,59.3424,1,125);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (338,338,3363.5000,'2022-11-01 00:00:00','501885405632852000','8414','2024-11-30',18,470.8900,3,35);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (339,339,3099.8400,'2021-05-10 00:00:00','5610350861978510','7924','2024-03-31',12,340.9824,2,87);
-INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (340,340,65.0600,'2022-05-05 00:00:00','201756312815636','4931','2022-07-31',17,7.1566,3,5);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (341,341,8571.7800,'2022-09-17 00:00:00','670693058255687000','1936','2023-02-28',5,1114.3314,2,132);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (342,342,12034.2500,'2021-02-26 00:00:00','3549243223966030','8330','2024-05-31',16,1564.4525,3,134);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (343,343,102.0300,'2022-10-08 00:00:00','5602235044557640','1133','2023-06-30',17,17.3451,1,105);
@@ -1743,7 +1689,6 @@ INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (349,349,2361.1200,'2021-09-17 00:00:00','3556138580567420','6197','2023-02-28',14,330.5568,3,132);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (351,351,7678.4700,'2021-04-29 00:00:00','6709450897130850','3343','2024-06-30',14,1382.1246,2,162);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (354,354,1380.6400,'2021-09-12 00:00:00','372301257680993','3459','2022-09-30',18,151.8704,1,156);
-INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (355,355,280.5600,'2022-03-10 00:00:00','201780153505411','2425','2024-03-31',3,42.0840,3,79);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (356,356,15210.3600,'2022-07-25 00:00:00','501864059388260000','2122','2024-02-29',8,2889.9684,1,53);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (357,357,695.1900,'2021-12-12 00:00:00','3585802390705900','5169','2023-06-30',4,69.5190,2,155);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (359,359,1929.6000,'2022-10-22 00:00:00','3562414849924400','5859','2023-02-28',14,289.4400,2,30);
@@ -1789,7 +1734,6 @@ INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (420,420,4233.6000,'2021-02-10 00:00:00','3576245606019360','0736','2022-05-31',9,677.3760,1,153);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (422,422,653.7600,'2021-08-05 00:00:00','5100149662089080','8022','2024-02-29',9,117.6768,2,33);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (423,423,260.0400,'2021-05-20 00:00:00','3583930602844940','6767','2023-02-28',16,41.6064,3,81);
-INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (425,425,3918.6000,'2022-03-15 00:00:00','3555426794573710','8764','2023-11-30',19,391.8600,1,62);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (426,426,2886.6000,'2022-06-06 00:00:00','6333794426875680','2746','2022-01-31',15,519.5880,3,144);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (428,428,9451.6200,'2021-01-22 00:00:00','5428834937017390','4319','2024-06-30',14,1417.7430,2,102);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (429,429,4852.2000,'2021-08-22 00:00:00','3542047784242960','5545','2023-11-30',17,630.7860,2,17);
@@ -1805,7 +1749,6 @@ INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (443,443,1398.1000,'2021-02-05 00:00:00','3558706805920730','3460','2023-10-31',19,181.7530,1,111);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (446,446,6014.1600,'2022-04-01 00:00:00','6304211451398110000','9087','2024-01-31',10,1022.4072,1,142);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (448,448,846.6000,'2021-11-09 00:00:00','6377398907963870','4867','2023-04-30',1,118.5240,1,98);
-INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (449,449,6301.8000,'2022-06-04 00:00:00','3552976719504280','9721','2023-05-31',19,756.2160,2,59);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (450,450,14683.6400,'2021-07-07 00:00:00','3577230825165310','1888','2023-12-31',13,2202.5460,3,134);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (453,453,354.8000,'2021-08-12 00:00:00','372301113511788','0796','2023-12-31',19,46.1240,2,157);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (454,454,11263.5400,'2022-10-12 00:00:00','3566254191698330','2177','2022-09-30',12,2252.7080,1,111);
@@ -1817,8 +1760,6 @@ INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (462,462,4013.8000,'2021-05-15 00:00:00','3560896116507030','2680','2023-11-30',19,722.4840,1,33);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (465,465,8096.0000,'2022-10-10 00:00:00','3559219576248690','6885','2022-11-30',4,1133.4400,1,81);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (466,466,253.7200,'2022-09-27 00:00:00','201618736917655','6812','2023-05-31',1,30.4464,1,19);
-INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (469,469,1220.4600,'2021-09-09 00:00:00','3563043316584850','4448','2023-09-30',19,122.0460,3,156);
-INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (470,470,1613.8800,'2021-01-20 00:00:00','5602212985282480','9878','2023-04-30',20,274.3596,1,124);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (473,473,813.5400,'2021-07-06 00:00:00','3549793944290740','5587','2023-05-31',7,122.0310,1,107);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (474,474,3463.4600,'2022-01-17 00:00:00','374622787362374','1559','2024-09-30',4,519.5190,2,10);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (477,477,2929.9200,'2022-10-31 00:00:00','4844661738311850','6394','2022-10-31',15,468.7872,1,62);
@@ -1830,10 +1771,8 @@ INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (488,488,217.0200,'2021-11-27 00:00:00','67635096207134700','3707','2023-07-31',4,41.2338,1,59);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (492,492,819.8400,'2021-01-13 00:00:00','4905623374542940','2434','2022-07-31',17,131.1744,3,38);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (495,495,4930.3800,'2022-06-23 00:00:00','5002356320497340','0264','2021-07-31',17,739.5570,3,15);
-INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (496,496,1527.5400,'2022-12-16 00:00:00','4175007026629930','0613','2023-05-31',15,152.7540,3,109);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (497,497,3224.6700,'2022-06-27 00:00:00','36579829080606','7724','2023-01-31',14,580.4406,1,15);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (498,498,196.4000,'2022-08-13 00:00:00','201412624626168','7767','2023-11-30',6,37.3160,2,99);
-INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (499,499,9462.3900,'2021-12-05 00:00:00','3569480012357540','8125','2023-03-31',5,1230.1107,2,105);
 INSERT INTO payment (payment_id,booking_id,total_amount,payment_date,credit_card_number,credit_card_security_number,credit_card_validity_date,credit_card_vendor_id,commission_amount,payment_status_id,currency_id) VALUES (500,500,975.3500,'2021-08-07 00:00:00','3564067964398850','1577','2022-12-31',13,156.0560,2,55);
 
 
@@ -2396,7 +2335,6 @@ INSERT INTO accommodation_calendar (accommodation_calendar_id,accommodation_id,v
 INSERT INTO accommodation_calendar (accommodation_calendar_id,accommodation_id,valid_from,valid_to,is_available,price_per_night,currency_id) VALUES (557,41,'2023-08-15','2023-09-17',1,100.5700,140);
 INSERT INTO accommodation_calendar (accommodation_calendar_id,accommodation_id,valid_from,valid_to,is_available,price_per_night,currency_id) VALUES (558,36,'2023-12-18','2023-12-24',1,352.6900,102);
 INSERT INTO accommodation_calendar (accommodation_calendar_id,accommodation_id,valid_from,valid_to,is_available,price_per_night,currency_id) VALUES (559,22,'2023-06-15','2023-07-11',1,370.5900,119);
-INSERT INTO accommodation_calendar (accommodation_calendar_id,accommodation_id,valid_from,valid_to,is_available,price_per_night,currency_id) VALUES (560,60,'2023-05-07','2023-05-20',1,387.7600,59);
 INSERT INTO accommodation_calendar (accommodation_calendar_id,accommodation_id,valid_from,valid_to,is_available,price_per_night,currency_id) VALUES (561,3,'2023-07-29','2023-08-11',1,327.0100,99);
 INSERT INTO accommodation_calendar (accommodation_calendar_id,accommodation_id,valid_from,valid_to,is_available,price_per_night,currency_id) VALUES (562,36,'2023-01-19','2023-02-22',1,451.7600,157);
 INSERT INTO accommodation_calendar (accommodation_calendar_id,accommodation_id,valid_from,valid_to,is_available,price_per_night,currency_id) VALUES (563,13,'2023-07-07','2023-08-10',1,113.6300,21);
@@ -2409,7 +2347,6 @@ INSERT INTO accommodation_calendar (accommodation_calendar_id,accommodation_id,v
 INSERT INTO accommodation_calendar (accommodation_calendar_id,accommodation_id,valid_from,valid_to,is_available,price_per_night,currency_id) VALUES (570,32,'2023-01-20','2023-02-25',1,148.4200,68);
 INSERT INTO accommodation_calendar (accommodation_calendar_id,accommodation_id,valid_from,valid_to,is_available,price_per_night,currency_id) VALUES (572,38,'2023-12-12','2023-12-26',1,113.1200,55);
 INSERT INTO accommodation_calendar (accommodation_calendar_id,accommodation_id,valid_from,valid_to,is_available,price_per_night,currency_id) VALUES (573,9,'2023-12-08','2023-12-10',1,483.1500,15);
-INSERT INTO accommodation_calendar (accommodation_calendar_id,accommodation_id,valid_from,valid_to,is_available,price_per_night,currency_id) VALUES (574,1,'2023-10-29','2023-11-19',1,162.2300,20);
 INSERT INTO accommodation_calendar (accommodation_calendar_id,accommodation_id,valid_from,valid_to,is_available,price_per_night,currency_id) VALUES (575,15,'2023-04-13','2023-04-16',1,301.7000,140);
 INSERT INTO accommodation_calendar (accommodation_calendar_id,accommodation_id,valid_from,valid_to,is_available,price_per_night,currency_id) VALUES (576,32,'2023-09-21','2023-11-08',1,244.0400,56);
 INSERT INTO accommodation_calendar (accommodation_calendar_id,accommodation_id,valid_from,valid_to,is_available,price_per_night,currency_id) VALUES (577,57,'2023-08-26','2023-09-12',1,114.7000,159);
@@ -2440,7 +2377,6 @@ INSERT INTO accommodation_calendar (accommodation_calendar_id,accommodation_id,v
 INSERT INTO accommodation_calendar (accommodation_calendar_id,accommodation_id,valid_from,valid_to,is_available,price_per_night,currency_id) VALUES (610,4,'2023-08-20','2023-10-06',1,159.2300,10);
 INSERT INTO accommodation_calendar (accommodation_calendar_id,accommodation_id,valid_from,valid_to,is_available,price_per_night,currency_id) VALUES (611,31,'2023-01-02','2023-01-29',1,481.2500,21);
 INSERT INTO accommodation_calendar (accommodation_calendar_id,accommodation_id,valid_from,valid_to,is_available,price_per_night,currency_id) VALUES (612,5,'2023-09-18','2023-10-17',1,166.9000,94);
-INSERT INTO accommodation_calendar (accommodation_calendar_id,accommodation_id,valid_from,valid_to,is_available,price_per_night,currency_id) VALUES (613,13,'2023-04-16','2023-05-19',1,173.0500,145);
 INSERT INTO accommodation_calendar (accommodation_calendar_id,accommodation_id,valid_from,valid_to,is_available,price_per_night,currency_id) VALUES (614,30,'2023-10-21','2023-11-26',1,333.0100,58);
 INSERT INTO accommodation_calendar (accommodation_calendar_id,accommodation_id,valid_from,valid_to,is_available,price_per_night,currency_id) VALUES (615,22,'2023-02-12','2023-03-08',1,454.6400,103);
 INSERT INTO accommodation_calendar (accommodation_calendar_id,accommodation_id,valid_from,valid_to,is_available,price_per_night,currency_id) VALUES (616,41,'2023-11-15','2023-12-13',1,384.7700,163);
@@ -2451,7 +2387,6 @@ INSERT INTO accommodation_calendar (accommodation_calendar_id,accommodation_id,v
 INSERT INTO accommodation_calendar (accommodation_calendar_id,accommodation_id,valid_from,valid_to,is_available,price_per_night,currency_id) VALUES (624,2,'2023-12-18','2024-01-25',1,346.1800,132);
 INSERT INTO accommodation_calendar (accommodation_calendar_id,accommodation_id,valid_from,valid_to,is_available,price_per_night,currency_id) VALUES (626,25,'2023-03-05','2023-03-20',1,229.1100,131);
 INSERT INTO accommodation_calendar (accommodation_calendar_id,accommodation_id,valid_from,valid_to,is_available,price_per_night,currency_id) VALUES (627,36,'2023-04-29','2023-05-04',1,373.8500,34);
-INSERT INTO accommodation_calendar (accommodation_calendar_id,accommodation_id,valid_from,valid_to,is_available,price_per_night,currency_id) VALUES (628,47,'2023-03-08','2023-03-27',1,61.2300,109);
 INSERT INTO accommodation_calendar (accommodation_calendar_id,accommodation_id,valid_from,valid_to,is_available,price_per_night,currency_id) VALUES (629,38,'2023-06-21','2023-06-30',1,191.3900,61);
 INSERT INTO accommodation_calendar (accommodation_calendar_id,accommodation_id,valid_from,valid_to,is_available,price_per_night,currency_id) VALUES (630,39,'2023-08-13','2023-08-15',1,118.7000,101);
 INSERT INTO accommodation_calendar (accommodation_calendar_id,accommodation_id,valid_from,valid_to,is_available,price_per_night,currency_id) VALUES (631,10,'2023-01-29','2023-03-12',1,241.7900,140);
@@ -2484,14 +2419,12 @@ INSERT INTO accommodation_calendar (accommodation_calendar_id,accommodation_id,v
 INSERT INTO accommodation_calendar (accommodation_calendar_id,accommodation_id,valid_from,valid_to,is_available,price_per_night,currency_id) VALUES (666,40,'2023-07-08','2023-07-29',1,422.5900,154);
 INSERT INTO accommodation_calendar (accommodation_calendar_id,accommodation_id,valid_from,valid_to,is_available,price_per_night,currency_id) VALUES (667,3,'2023-02-10','2023-03-07',1,216.6400,101);
 INSERT INTO accommodation_calendar (accommodation_calendar_id,accommodation_id,valid_from,valid_to,is_available,price_per_night,currency_id) VALUES (669,40,'2023-05-10','2023-05-23',1,444.0800,45);
-INSERT INTO accommodation_calendar (accommodation_calendar_id,accommodation_id,valid_from,valid_to,is_available,price_per_night,currency_id) VALUES (670,25,'2023-09-06','2023-09-07',1,370.8900,125);
 INSERT INTO accommodation_calendar (accommodation_calendar_id,accommodation_id,valid_from,valid_to,is_available,price_per_night,currency_id) VALUES (672,46,'2023-07-04','2023-07-20',1,193.7400,87);
 INSERT INTO accommodation_calendar (accommodation_calendar_id,accommodation_id,valid_from,valid_to,is_available,price_per_night,currency_id) VALUES (673,43,'2023-10-22','2023-12-03',1,204.0900,132);
 INSERT INTO accommodation_calendar (accommodation_calendar_id,accommodation_id,valid_from,valid_to,is_available,price_per_night,currency_id) VALUES (674,42,'2023-12-10','2023-12-13',1,34.0100,105);
 INSERT INTO accommodation_calendar (accommodation_calendar_id,accommodation_id,valid_from,valid_to,is_available,price_per_night,currency_id) VALUES (675,49,'2023-08-02','2023-08-29',1,134.3000,164);
 INSERT INTO accommodation_calendar (accommodation_calendar_id,accommodation_id,valid_from,valid_to,is_available,price_per_night,currency_id) VALUES (677,37,'2023-10-10','2023-10-26',1,147.5700,132);
 INSERT INTO accommodation_calendar (accommodation_calendar_id,accommodation_id,valid_from,valid_to,is_available,price_per_night,currency_id) VALUES (679,41,'2023-02-01','2023-02-20',1,404.1300,162);
-INSERT INTO accommodation_calendar (accommodation_calendar_id,accommodation_id,valid_from,valid_to,is_available,price_per_night,currency_id) VALUES (681,4,'2023-09-14','2023-09-16',1,140.2800,79);
 INSERT INTO accommodation_calendar (accommodation_calendar_id,accommodation_id,valid_from,valid_to,is_available,price_per_night,currency_id) VALUES (682,25,'2023-06-09','2023-06-12',1,231.7300,155);
 INSERT INTO accommodation_calendar (accommodation_calendar_id,accommodation_id,valid_from,valid_to,is_available,price_per_night,currency_id) VALUES (684,16,'2023-07-26','2023-08-15',1,298.3300,92);
 INSERT INTO accommodation_calendar (accommodation_calendar_id,accommodation_id,valid_from,valid_to,is_available,price_per_night,currency_id) VALUES (685,19,'2023-02-26','2023-04-16',1,404.4200,97);
