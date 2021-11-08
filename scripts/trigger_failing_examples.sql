@@ -14,9 +14,11 @@ INSERT INTO accommodation_calendar (accommodation_calendar_id,accommodation_id,v
 INSERT INTO accommodation_calendar (accommodation_calendar_id,accommodation_id,valid_from,valid_to,is_available,price_per_night,currency_id)
     VALUES (754,27,'2023-09-21','2023-09-23',1,20.8200,110);
 
--- Cascade on accommodation_pic for accommodations
+-- Cascade on accommodation_pic for accommodations.
 select * from accommodation_pic where accommodation_id=61;
 -- with this select you will see 2 accommodation_pic entries
+-- Below delete will only work for accommodations which does not have bookings. These accommodations will not be deleted
+-- as they are foreign keys connected to booking table
 delete from accommodation where accommodation_id=61;
 -- after deleting the row in accommodation select again these accommodation_pics, you will not see any entries
 select * from accommodation_pic where accommodation_id=61;
