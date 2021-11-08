@@ -181,6 +181,21 @@ CREATE TABLE accommodation_calendar(
 
 DELIMITER $$
 
+CREATE TRIGGER booking_time_range_check
+BEFORE INSERT ON booking
+FOR EACH ROW
+	BEGIN
+		DECLARE count_existing_booking_range INT;
+		SELECT count(booking_id) INTO count_existing_booking_range
+			FROM booking b
+            WHERE b.accommodation_id = new.accommodation_id and
+				((b.booking_from BETWEEN new.booking_from and new.booking_until)
+				or (b.booking_until BETWEEN new.booking_from and new.booking_until));
+        IF count_existing_booking_range>0 THEN
+			SIGNAL SQLSTATE '45000' SET MESSAGE_TEXT = 'ERROR:There is already a booking during this dates for this accommodation! Entry not allowed!';
+        END IF;
+	END$$
+
 CREATE TRIGGER ac_time_range_check
 BEFORE INSERT ON accommodation_calendar
 FOR EACH ROW
