@@ -200,13 +200,13 @@ CREATE TRIGGER ac_time_range_check
 BEFORE INSERT ON accommodation_calendar
 FOR EACH ROW
 	BEGIN
-		DECLARE count_existing_booking_range INT;
-		SELECT count(accommodation_calendar_id) INTO count_existing_booking_range
+		DECLARE count_existing_ac_range INT;
+		SELECT count(accommodation_calendar_id) INTO count_existing_ac_range
 			FROM accommodation_calendar ac
             WHERE ac.accommodation_id = new.accommodation_id and
 				((ac.valid_from BETWEEN new.valid_from and new.valid_to)
 				or (ac.valid_to BETWEEN new.valid_from and new.valid_to));
-        IF count_existing_booking_range>0 THEN
+        IF count_existing_ac_range>0 THEN
 			SIGNAL SQLSTATE '45000' SET MESSAGE_TEXT = 'ERROR:There is already accommodation calendar existing for this period!';
         END IF;
 	END$$
